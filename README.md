@@ -2,6 +2,8 @@
 
 **Plan your day by energy, not hours.**
 
+**Live demo:** https://spoons-sooty.vercel.app
+
 Spoons is a day planner for students living with a chronic illness, whose energy changes from one day to the next. Each morning you say how many *spoons* of energy you have. Spoons fits your tasks into that budget, keeps a reserve back so you don't crash, and gives everything that doesn't fit a clear next step: move it to tomorrow, do the first part, ask someone for help, or ask for more time.
 
 Built for the [Taskforge](https://taskforge.devpost.com/) student hackathon (October 2026).
@@ -49,7 +51,7 @@ npm run build      # static site in dist/
 
 There is no backend, no account and no API key. Tasks are saved in your browser's localStorage and are never sent anywhere. Fonts are self-hosted, so it also works offline.
 
-To deploy: push to GitHub and enable **Settings → Pages → Source: GitHub Actions**. The included workflow builds and publishes `dist/`.
+Deployed on Vercel (framework preset: Vite, build `vite build`, output `dist`). A GitHub Pages workflow is also included: enable **Settings → Pages → Source: GitHub Actions**.
 
 ## How it works
 
