@@ -4,21 +4,21 @@ Deadline: **Saturday 24 October 2026, 22:00 Lagos time** (5:00pm EDT). Aim to su
 
 ---
 
-## Project name
-Spoons
+## Project name (60 characters max)
+Spoons: plan your day by energy, not hours
 
-## Elevator pitch (tagline, 200 characters max)
-A day planner for students with chronic illness that plans by energy, not hours, and gives every task that doesn't fit a next step: tomorrow, part one, a help message, or a request for more time.
+## Elevator pitch (200 characters max)
+A day planner for students with chronic illness. Set today's energy in spoons; it fits your tasks, keeps a reserve, and turns the rest into a next step: tomorrow, a help message, or more time.
 
 ## Built with (tags)
 react, typescript, vite, vitest, web-speech-api, localstorage, playwright, axe-core, lucide
 
 ## Try it out (links)
-- Live demo: *your GitHub Pages URL, e.g. https://trovic1.github.io/spoons/*
+- Live demo: *your Vercel URL*
 - Code: *https://github.com/trovic1/spoons*
 
 ## Video
-Upload `spoons-demo.mp4` to YouTube (unlisted is fine) and paste the link. Add `spoons-demo.srt` as the caption file.
+Upload `spoons-demo.mp4` to YouTube and paste the link. Title, description, tags and thumbnail are in `docs/YOUTUBE.md`.
 
 ---
 
@@ -89,5 +89,5 @@ For a hackathon about tools that don't leave people behind, accessibility had to
 
 ### Pre-existing work and AI disclosure
 - All code was written during the hackathon (22–24 Oct 2026). We used open-source libraries (React, Vite, Lucide icons, Fontsource fonts) under their licenses.
-- **AI assistance:** we used Claude (Anthropic) as a coding and writing assistant for research, planning, code, tests, the demo recording script and documentation drafts. We reviewed, ran and tested everything before submitting.
+- **AI assistance:** we used Claude (Anthropic) as a coding and writing assistant for research, planning, code, tests, the demo recording script and documentation drafts. The demo voice-over is AI-generated with Kokoro (open-source TTS); the music and sound effects were synthesized in code for the video. We reviewed, ran and tested everything before submitting.
 - Spoon theory is the work of Christine Miserandino, credited in the app and the README.
