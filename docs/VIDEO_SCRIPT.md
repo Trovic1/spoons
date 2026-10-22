@@ -1,6 +1,6 @@
 # Demo video script
 
-The finished video is `spoons-demo.mp4` (about 1:52, 1080p). It has captions burned in and a soft caption track, plus `spoons-demo.srt` for YouTube. It works with no audio.
+The finished video is `spoons-demo.mp4` (1:54, 1080p). It has captions burned in and a soft caption track, plus `spoons-demo.srt` for YouTube. It works with no audio.
 
 **Optional voice-over:** Devpost judges often prefer hearing a person. Play the video and read the lines below over it, using your phone's voice recorder or QuickTime. Then merge the audio:
 
@@ -28,9 +28,9 @@ Speak slowly. Each line fits its time slot at a calm pace. The times are approxi
 | 1:06 | Done, log 4 spoons | "Her lecture took four spoons, not two." |
 | 1:10 | Battery reflows | "So the rest of her day re-plans instantly, and the lab report is flagged before she runs out." |
 | 1:15 | Add "Grocery run", "Use 3" | "Spoons also learns what tasks really cost her." |
-| 1:28 | Display settings | "It's built for whoever opens it: keyboard, screen reader announcements, read-aloud…" |
-| 1:33 | High contrast, Lexend, dark | "…high contrast, a reading-friendly font, and dark mode." |
-| 1:46 | End card | "Spoons works offline, with no account, and your tasks stay on your device." |
+| 1:30 | Display settings | "It's built for whoever opens it: keyboard, screen reader announcements, read-aloud…" |
+| 1:35 | High contrast, Lexend, dark | "…high contrast, a reading-friendly font, and dark mode." |
+| 1:48 | End card | "Spoons works offline, with no account, and your tasks stay on your device." |
 
 ## Re-recording after changes
 
