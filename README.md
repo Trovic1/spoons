@@ -2,7 +2,7 @@
 
 **Plan your day by energy, not hours.**
 
-**Live demo:** https://spoons-sooty.vercel.app
+**Live demo:** https://spoons1.vercel.app
 
 Spoons is a day planner for students living with a chronic illness, whose energy changes from one day to the next. Each morning you say how many *spoons* of energy you have. Spoons fits your tasks into that budget, keeps a reserve back so you don't crash, and gives everything that doesn't fit a clear next step: move it to tomorrow, do the first part, ask someone for help, or ask for more time.
 

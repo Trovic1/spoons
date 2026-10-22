@@ -275,7 +275,7 @@ with sync_playwright() as p:
              '<h2 class="pop" style="animation-delay:1.9s">Your data <span class="y">never leaves</span> your device.</h2></div>')
     until(pg, vo(pg, 14))
     card(pg, f'<div class="wrap zoomin">{LOGO}<p>Plan your day by <span class="y">energy</span>, not hours.</p>'
-             '<p class="url">Built for Taskforge 2026 · github.com/trovic1/spoons</p></div>')
+             '<p class="url" style="opacity:1;color:#1c1b18;background:#f2c230;padding:16px 36px;border-radius:999px;font-size:54px">spoons1.vercel.app</p><p class="url">Built for Taskforge 2026</p></div>')
     ev["end"] = round(now(), 3)
     until(pg, vo(pg, 15) + 2.6)
     ev["duration"] = round(now(), 3)

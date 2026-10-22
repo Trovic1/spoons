@@ -14,7 +14,7 @@ A day planner for students with chronic illness. Set today's energy in spoons; i
 react, typescript, vite, vitest, web-speech-api, localstorage, playwright, axe-core, lucide
 
 ## Try it out (links)
-- Live demo: https://spoons-sooty.vercel.app
+- Live demo: https://spoons1.vercel.app
 - Code: *https://github.com/trovic1/spoons*
 
 ## Video

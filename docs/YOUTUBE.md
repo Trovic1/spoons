@@ -15,7 +15,7 @@ Spoons is a day planner for students whose energy changes from one day to the ne
 
 Built for the Taskforge student hackathon on Devpost.
 
-▶ Try it: https://spoons-sooty.vercel.app
+▶ Try it: https://spoons1.vercel.app
 ▶ Code: https://github.com/trovic1/spoons
 
 Chapters
